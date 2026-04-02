@@ -177,6 +177,8 @@ npm install
 # 4. Start the Vite development server
 npm run dev
 ```
+OR just click this link
+https://hackathoncodecure.netlify.app/
 
 ---
 
