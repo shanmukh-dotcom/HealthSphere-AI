@@ -192,12 +192,7 @@ Want to push this further? Hooking up the actual AI backend to the UI mock endpo
 
 ---
 
-## 📜 License
 
-MIT
-
----
-
-## 🎯 Final Line (Remember This)
+## 🎯 Final Line
 
 > **HealthSphere AI+ doesn’t just tell you what’s wrong — it tells you what to do next, where to go, what it will cost, and supports you throughout the journey.**
