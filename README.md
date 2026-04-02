@@ -6,12 +6,6 @@
   <b>From diagnosis → decisions → recovery — all in one intelligent system.</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Healthcare-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Production--Ready-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UX-Premium-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hackathon-Winner%20Potential-orange?style=for-the-badge"/>
-</p>
 
 ---
 
